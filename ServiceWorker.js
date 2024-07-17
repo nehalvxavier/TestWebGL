@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Book-AR-0.1";
 const contentToCache = [
-    "Build/TestBuild.loader.js",
-    "Build/TestBuild.framework.js.gz",
-    "Build/TestBuild.data.gz",
-    "Build/TestBuild.wasm.gz",
+    "Build/TestWebGL.loader.js",
+    "Build/TestWebGL.framework.js",
+    "Build/TestWebGL.data",
+    "Build/TestWebGL.wasm",
     "TemplateData/style.css"
 
 ];
